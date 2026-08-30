@@ -1,13 +1,13 @@
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
-theme: architect
-# theme: dinky
-# theme: hacker
-# theme: leap-day
-# theme: merlot
-# theme: midnight
-# theme: minima
-# theme: modernist
-# theme: slate
-# theme: tactile
-# theme: time-machine
+theme: jekyll-theme-architect
+# theme: jekyll-theme-dinky
+# theme: jekyll-theme-hacker
+# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-merlot
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-minima
+# theme: jekyll-theme-modernist
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-tactile
+# theme: jekyll-theme-time-machine
